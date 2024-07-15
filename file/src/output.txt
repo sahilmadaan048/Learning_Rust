@@ -1,2 +1,0 @@
-welcome to the rust language
-hey ia m sahil madaan
